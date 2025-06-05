@@ -1,0 +1,7 @@
+Name: lars
+Year of birth: 2010
+Month of birth: 10
+Day of birth: 13
+Hobbies: gym, coding, reading, video, geams, climbing
+Location: bern
+Age: 15
